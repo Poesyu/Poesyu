@@ -4,6 +4,7 @@
 
 - <b>Systems Administration</b>
   - [Active Directory Homelab](https://github.com/Poesyu/Active-Directory-Homelab)
+  - [osTicket Homelab](https://github.com/Poesyu/osTicket-Homelab)
 
 - <b>Network Infrastructure</b> 
   - [PiHole Implementation](https://github.com/Poesyu/PiHole-Implementation)
